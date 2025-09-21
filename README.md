@@ -34,7 +34,7 @@ Our group project investigates the relationship between **Electronic Gaming Mach
 - Stronger correlation between **EGM losses and drug-related offences** than alcohol-related offences.
 - **No strong temporal relationship** — changes in gaming losses from year to year did not significantly influence offence counts.
 - COVID-19 disruptions in 2020 caused a sharp decline in gaming losses across all LGAs.
-- Clustering revealed distinct high-risk vs. low-risk groups of LGAs:contentReference
+- Clustering revealed distinct high-risk vs. low-risk groups of LGAs
 
 ---
 📄 Deliverables
