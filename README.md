@@ -6,7 +6,7 @@ Our group project investigates the relationship between **Electronic Gaming Mach
 ---
 
 ## 📌 Research Question
-> **What is the relationship between annual expenditure on EGMs and the annual prevalence of addictive substance use and disorderly alcohol-related crimes within each local government area between 2014 and 2020?**:contentReference[oaicite:0]{index=0}
+> **What is the relationship between annual expenditure on EGMs and the annual prevalence of addictive substance use and disorderly alcohol-related crimes within each local government area between 2014 and 2020?**
 
 ---
 
@@ -25,7 +25,7 @@ Our group project investigates the relationship between **Electronic Gaming Mach
 
 - **Machine Learning Methods**:
   - **Linear Regression** (supervised): Modelled offence counts as a function of gaming losses, achieving an R² of ~0.704.
-  - **K-Means Clustering** (unsupervised): Grouped LGAs into **high-loss/high-offence** vs **low-loss/low-offence** clusters:contentReference[oaicite:1]{index=1}.
+  - **K-Means Clustering** (unsupervised): Grouped LGAs into **high-loss/high-offence** vs **low-loss/low-offence** 
 
 ---
 
@@ -34,7 +34,7 @@ Our group project investigates the relationship between **Electronic Gaming Mach
 - Stronger correlation between **EGM losses and drug-related offences** than alcohol-related offences.
 - **No strong temporal relationship** — changes in gaming losses from year to year did not significantly influence offence counts.
 - COVID-19 disruptions in 2020 caused a sharp decline in gaming losses across all LGAs.
-- Clustering revealed distinct high-risk vs. low-risk groups of LGAs:contentReference[oaicite:2]{index=2}.
+- Clustering revealed distinct high-risk vs. low-risk groups of LGAs:contentReference
 
 ---
 📄 Deliverables
